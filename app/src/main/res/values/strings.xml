@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Client-server-fouractivity</string>
+    <string name="commits">commits</string>
+
+    <string name="contributors">contributors</string>
+</resources>
